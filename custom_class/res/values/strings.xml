@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Secondary Dex Sample</string>
+    <string name="diag_title">Wait</string>
+    <string name="diag_message">Processing dex file...</string>
+    <string name="message">Press button to generate an awesome Toast!\n(Method in the secondary dex file is executed)</string>
+    <string name="toast">Toast!</string>
+</resources>
